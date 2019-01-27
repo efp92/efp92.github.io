@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/efp92/efp92.github.io/edit
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-![Panda photo](photo.png)
+![Panda photo](panda.png)
 
 ### Markdown
 
