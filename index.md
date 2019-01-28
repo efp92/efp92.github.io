@@ -10,7 +10,7 @@ Here you can see my work. I hope you enjoy it.
 ![Panda photo](panda.png)
 
 
-To order please cantact per [email] (crochetpanda92@gmail.com)
+To order please cantact per crochetpanda92@gmail.com
 
 **Bold** 
 
