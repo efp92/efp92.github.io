@@ -1,28 +1,24 @@
 ## Welcome to CrochetPanda
 
-{% comment %}
-  You can use the [editor on GitHub](https://github.com/efp92/efp92.github.io/edit/master/index.md) 
-  to maintain and preview the content for your website in Markdown files. 
-{% endcomment %}
+Welcome to Crochet Panda. This Website is dedicated for crochet handmade work, especially for amigurimi.
+Amigurumi is a stuffed 3D crochet.
+
+Here you can see my work. I hope you enjoy it. 
+
+
 
 ![Panda photo](panda.png)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+To order please cantact crochetpanda92@gmail.com
 
+**Bold** 
+
+_Italic_
+
+`Code`
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
@@ -33,7 +29,10 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/efp92/efp92.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+[editor on GitHub](https://github.com/efp92/efp92.github.io/edit/master/index.md) 
+
+[repository settings](https://github.com/efp92/efp92.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
